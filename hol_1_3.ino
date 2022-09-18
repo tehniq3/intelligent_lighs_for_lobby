@@ -1,4 +1,4 @@
-// inteligent light for lobby - original by Nicu FLORICA (niq_ro)
+// intelligent light for lobby - original by Nicu FLORICA (niq_ro)
 // v.1.0 - initial
 // v.1.1 - serial monitoring for time to off
 // v.1.2 - changed colours (8 colors) by button
