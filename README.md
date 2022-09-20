@@ -3,8 +3,10 @@ based on https://nicuflorica.blogspot.com/2018/11/scari-luminate-inteligent.html
 
 my article: https://nicuflorica.blogspot.com/2022/09/lumini-inteligente-pentru-hol-lung-sau.html
 
-schematic:
 ![schematic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTMltvVUOnPvssFjwOUImNLZvZWJdqV2N11EU2mYWPsItPkhR6gXxoqbzSfbkatPRMTWso722AFpji4HZcbKrtqxRclaR2ouuxA4sjjHqr5HyV-t76tbOnAIeguJE4WdWl9K7_n1u62gMG2LJ61EFSPkDra6xkDmMCiuOTOq8UttTNjo6nJnO94xCPZQ/s854/intelligent_lights_for_lobby_schematic_v1.png)
+
+![1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGIzNytvHhPcrJNZWsAtoTXzCG4lgOE3bCWLE_PytAq0klzYYT8_Kju2VdTnUiWDD9I97tK-FWB7zawR25m0ErWMq71XbSy8wVlKixqUe7OksuFwFU0HKhcqymqICwS9BdnA3hFyMsrQX5uWNN4kuLm_9nFkFzldYkjZwjeQInqIUNkrqZuRWnsTqgrA/s320/real_activ_mov.jpg)
+![2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZKBfLitGrl3duGcjua9ePM3PxQMusvG14CQ4mBgdAKtgZmNp5T6htMVCi0V_LEcKPmVxZsdkqHd-yCxLXh7nBFe4FQLLPCUun0Cgyz1pSENB2kqew4iC5dz8pUYnFE6qeZZ23ODWEu-13sYpbLVN6W-MZHniI2c8PgHNuawlg9gxnDEzWrhqTu0gFOA/s320/real_activ_alb.jpg)
 
 video1: https://youtu.be/tvwQnJJE6A8
 
